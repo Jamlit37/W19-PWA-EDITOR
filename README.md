@@ -15,4 +15,4 @@ npm run start
 If you want to vist my [GitHub](https://github.com/Jamlit37) or the [GitHub repository](https://github.com/Jamlit37/W19-PWA-EDITOR) click the links
 
 ## Live app on Heroku
-https://dashboard.heroku.com/apps/w19-pwa-editor
+https://w19-pwa-editor.herokuapp.com/
